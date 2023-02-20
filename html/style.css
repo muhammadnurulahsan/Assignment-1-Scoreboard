@@ -239,10 +239,7 @@ h1.name {
 @media screen and (max-width: 914px) {
   .section {
     width: 550px;
-  }
-  .logo {
-    /* width: 120px; */
-  }
+  } 
   h1.name {
     font-size: 20px;
   }
@@ -259,10 +256,7 @@ h1.name {
 @media screen and (max-width: 557px) {
   .section {
     width: 450px;
-  }
-  .logo {
-    /* width: 100px; */
-  }
+  } 
   h1.name {
     font-size: 20px;
   }
